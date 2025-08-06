@@ -76,6 +76,7 @@ WSGI_APPLICATION = 'Note_App.wsgi.application'
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
+    "https://note-app-frontend-h92b.onrender.com"
 ]
 
 
